@@ -14,10 +14,11 @@ def add_func(a, var_two):
 
 def yippi(a):
     """
-    Also ob der fucking docstring das problem ist
+    Also ob der fucking docstring das problem ist.
     
     Ohne scheiß was ein hurenprogramm,
     aber wirklich war
+    wirklich absolute kacke
     
     
     """
