@@ -12,6 +12,8 @@ def add_func(a, var_two):
     return a + var_two
 
 
-def yippi():
-    """also ob der fucking docstring das problem ist"""
+def yippi(a):
+    """Also ob der fucking docstring das
+    problem ist
+    ohne scheiß was ein hurenprogramm"""
     print("es läuft wie am schnürchen")
