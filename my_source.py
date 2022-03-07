@@ -10,3 +10,7 @@ def add_func(a, var_two):
 
     """
     return a + var_two
+
+
+def yippi():
+    print("es läuft wie am schnürchen")
